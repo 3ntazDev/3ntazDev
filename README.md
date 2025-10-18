@@ -330,20 +330,8 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </div>
 
-<h2 align="center">📫 Let's Connect & Collab!</h2>
 
-<!-- Social Links -->
-<div align="center">
-  <a href="https://linkedin.com/in/fahad-alghamdi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/3ntazDev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:Alghamdi.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+
 
 <br>
 
