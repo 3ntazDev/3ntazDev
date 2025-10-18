@@ -1,36 +1,87 @@
-<h1 align="center">Welcome I am a graduate software engineering student</h1>
-<div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
-</div
-<div style="max-width: 800px; margin: auto; padding: 20px; border: 2px solid black; border-radius: 10px; background-color: #f9f9f9; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
-    <h3 align="center" style="color: #333; font-family: Arial, sans-serif;">
-        Beginner in website programming using the React framework, proficient in project management, and interested in data analysis and artificial intelligence.
-    </h3>
+<h1 align="center">👋 Hi there, I'm <span style="color:#0078ff;">Fahad Alghamdi</span></h1>
+<h3 align="center">🎯 Software Engineer | QA & Business Analyst | Frontend Developer</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="Coding GIF">
+</p>
+
+---
+
+<div style="max-width: 850px; margin: auto; padding: 20px; border: 2px solid #e0e0e0; border-radius: 12px; background-color: #fafafa; box-shadow: 0 4px 10px rgba(0,0,0,0.08);">
+  <h3 align="center" style="color:#333; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+    🚀 Passionate about delivering high-quality, user-focused software solutions.  
+    Skilled in <b>QA Testing, Requirements Analysis, and Frontend Development</b> with a solid foundation in  
+    <b>JavaScript, React, Node.js, and SQL</b>.  
+    Enthusiastic about <b>AI integration, automation, and data analytics</b>.
+  </h3>
 </div>
 
-<p align="left">
+---
+
+<h2 align="center">🧠 Tech & Tools</h2>
+
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" style="vertical-align:top; margin:8px;">
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="vertical-align:top; margin:8px;">
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" style="vertical-align:top; margin:8px;">
-  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" style="vertical-align:top; margin:8px;">
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" style="vertical-align:top; margin:8px;">
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="vertical-align:top; margin:8px;">
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" style="vertical-align:top; margin:8px;">
-  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" style="vertical-align:top; margin:8px;">
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" style="vertical-align:top; margin:8px;">
-  <img src="https://img.icons8.com/color/48/000000/eclipse.png" alt="Eclipse" style="vertical-align:top; margin:8px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans" style="vertical-align:top; margin:8px; width:48px; height:48px;">
-  <img src="https://www.phpmyadmin.net/static/images/logo-og.png" alt="phpMyAdmin" style="vertical-align:top; margin:8px; width:48px; height:48px;">
-  <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" alt="MySQL" style="vertical-align:top; margin:8px; width:48px; height:48px;">
-
-</p>
-<p align="center">
-
-
+  <!-- Core -->
+  <img src="https://img.icons8.com/color/48/html-5.png" title="HTML5" style="margin:8px;">
+  <img src="https://img.icons8.com/color/48/css3.png" title="CSS3" style="margin:8px;">
+  <img src="https://img.icons8.com/color/48/javascript.png" title="JavaScript" style="margin:8px;">
+  <img src="https://img.icons8.com/plasticine/48/react.png" title="React.js" style="margin:8px;">
+  <img src="https://img.icons8.com/fluency/48/node-js.png" title="Node.js" style="margin:8px;">
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL" style="margin:8px;">
+  <img src="https://img.icons8.com/color/48/python.png" title="Python" style="margin:8px;">
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" title="Java" style="margin:8px;">
 </p>
 
-</p>
 <p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+  <!-- Frontend/UI -->
+  <img src="https://img.icons8.com/color/48/bootstrap.png" title="Bootstrap" style="margin:8px;">
+  <img src="https://img.icons8.com/color/48/tailwindcss.png" title="Tailwind CSS" style="margin:8px;">
+  <img src="https://img.icons8.com/color/48/figma.png" title="Figma" style="margin:8px;">
+</p>
+
+<p align="center">
+  <!-- QA & Dev Tools -->
+  <img src="https://img.icons8.com/color/48/jira.png" title="Jira" style="margin:8px;">
+  <img src="https://avatars.githubusercontent.com/u/3221291?s=48" title="Postman" style="margin:8px; border-radius:8px;">
+  <img src="https://avatars.githubusercontent.com/u/8908513?s=48" title="Cypress" style="margin:8px; border-radius:8px;">
+  <img src="https://img.icons8.com/color/48/git.png" title="Git" style="margin:8px;">
+  <img src="https://img.icons8.com/fluency/48/github.png" title="GitHub" style="margin:8px;">
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code" style="margin:8px;">
+  <img src="https://img.icons8.com/color/48/trello.png" title="Trello" style="margin:8px;">
+</p>
+
+---
+
+<h2 align="center">💻 Focus Areas</h2>
+<p align="center" style="font-size:16px;">
+  🔹 Manual & Automated Testing (UAT, Regression, API, UI)<br>
+  🔹 Test Case Design, Bug Reporting, and QA Documentation<br>
+  🔹 Requirement Gathering & Business Analysis<br>
+  🔹 Frontend Development with React & Tailwind CSS<br>
+  🔹 Agile/Scrum Project Management
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" alt="QA Testing GIF">
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=3ntazDev&show_icons=true&theme=tokyonight" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3ntazDev&layout=compact&theme=tokyonight" alt="Top Languages">
+</p>
+
+---
+
+<h2 align="center">📫 Connect with Me</h2>
+<p align="center">
+  <a href="https://linkedin.com/in/fahad-alghamdi" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" title="LinkedIn" style="margin:8px;"></a>
+  <a href="https://github.com/3ntazDev" target="_blank"><img src="https://img.icons8.com/fluency/48/github.png" title="GitHub" style="margin:8px;"></a>
+  <a href="mailto:Alghamdi.dev@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png" title="Email" style="margin:8px;"></a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Footer">
 </p>
